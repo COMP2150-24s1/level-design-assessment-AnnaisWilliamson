@@ -30,14 +30,18 @@ What are the main challenges? How have you designed and balanced these challenge
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
-## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
+## 2. Core Gameplay (469 words)
 
 ### 2.1. Acid
+Acid is used as a good blanket obstacle that has the player traverse through the level by another means, typically moving platforms.
+
+### 2.2. Moving Platforms
+THe moving platforms provide access to new areas and create a puzzle for players to use as they traverse through the level. There are initially two platforms the player can use, one takes them towards an item and the other the key.
+
+### 2.3. Keys
+After an initial jumping over acid lakes phase, there is a small challenge to collect the first key that involves jumping with the moving platform to successfully pass the long area of acid. The Platform will pass under the obstacle but the player will be pushed off and die in the acid.
+
+(DocImages/Platform Mechanic.jpeg)
 
 ### 2.2. Checkpoints
 
