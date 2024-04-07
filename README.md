@@ -33,7 +33,8 @@ THe moving platforms provide access to new areas and create a puzzle for players
 ### 2.3. Keys
 After an initial jumping over acid lakes phase, there is a small challenge to collect the first key that involves jumping with the moving platform to successfully pass the long area of acid. The Platform will pass under the obstacle but the player will be pushed off and die in the acid.
 
-![Moving Platofrm, Key, Acid!](DocImages/PlatfromMechanics.png) 
+
+![Spikes and Checkpoint!](DocImages/PlatformMechanics.png)
 
 ### 2.4. Spikes
 The spikes are introduced to show environmental damage the player can gain. The spikes will take one heart of damage and push the player back. It is easy to overcome the spikes by jumping over them or by avoiding them if they are on the ceiling or walls of  the level.
