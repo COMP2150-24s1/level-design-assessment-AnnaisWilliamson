@@ -15,6 +15,7 @@ Example:
 
 ![This is the alt text for an image!](DocImages/exampleimage.png)
 
+
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
@@ -41,7 +42,7 @@ THe moving platforms provide access to new areas and create a puzzle for players
 ### 2.3. Keys
 After an initial jumping over acid lakes phase, there is a small challenge to collect the first key that involves jumping with the moving platform to successfully pass the long area of acid. The Platform will pass under the obstacle but the player will be pushed off and die in the acid.
 
-DocImages/PlatformMechanics.png
+![Moving Platofrm, Key, Acid!](DocImages/PlatformMechanics.png)
 
 ### 2.4. Spikes
 The spikes are introduced to show environmental damage the player can gain. The spikes will take one heart of damage and push the player back. It is easy to overcome the spikes by jumping over them or by avoiding them if they are on the ceiling or walls of  the level.
