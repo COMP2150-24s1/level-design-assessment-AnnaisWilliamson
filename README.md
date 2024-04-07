@@ -98,9 +98,9 @@ After playing-testing a few times it was helpful to see where I could increase t
 Further use of iterative design may prove to show where typical failings I had not noticed myself are, if areas are too difficult, or if they are in need of adjustment so they do not feel plain or boring to the player. Perhaps further experimentation with the assets would grow further creative obstacles that add to a player’s creative solutions.
 
 ##Paper Prototypes:
-![!](DocImages/Section1Paper.png)
-![!](DocImages/Section2Paper.png)
-![!](DocImages/Section3Paper.png)
+![!](DocImages/Section1Paper.jpg)
+![!](DocImages/Section2Paper.jpg)
+![!](DocImages/Section3Paper.jpg)
 
 ##Storage Rooms:
 ![!](DocImages/StorageRoom1.png)
