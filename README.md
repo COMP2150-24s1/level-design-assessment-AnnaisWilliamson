@@ -69,11 +69,8 @@ The health available allows the players to receive one heart. They can not go ov
 ![Spitters, Health!](DocImages/SpitterHealthPack.png)
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
- 
 ### 3.1. Molecule Diagram
+![](DocImages/MoleculeDiagram.png)
 
 ### 3.2. Level Map – Section 1
 ![!](DocImages/Section1.png)
