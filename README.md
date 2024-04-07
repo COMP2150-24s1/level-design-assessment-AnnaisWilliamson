@@ -5,15 +5,6 @@
 
 This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
 
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
 
 
 ## 1. Player Experience (~700 words)
@@ -42,13 +33,15 @@ THe moving platforms provide access to new areas and create a puzzle for players
 ### 2.3. Keys
 After an initial jumping over acid lakes phase, there is a small challenge to collect the first key that involves jumping with the moving platform to successfully pass the long area of acid. The Platform will pass under the obstacle but the player will be pushed off and die in the acid.
 
-![Moving Platofrm, Key, Acid!](DocImages/PlatformMechanics.png)
+![Moving Platofrm, Key, Acid!](DocImages/Spikes and Checkpoint Mechanic.jpeg) 
 
 ### 2.4. Spikes
 The spikes are introduced to show environmental damage the player can gain. The spikes will take one heart of damage and push the player back. It is easy to overcome the spikes by jumping over them or by avoiding them if they are on the ceiling or walls of  the level.
 
 ### 2.5. Checkpoints
 Checkpoints are made available once successfully traversing a section or when a tricky obstacle has been passed or defeated. They allow the player to feel safe with their progress as well as not having them restart from the beginning of the level.
+
+![Spikes and Checkpoint!](DocImages/PlatformMechanics.png)
 
 ### 2.6. Passthrough Platforms
 Once the spikes have been safely avoided and the gun collected from the skeleton, there is a pass through platform that drops the player directly on the edge of the acid pool. From there the player can use the moving platform to jump up and get the key if they went up instead of across.
