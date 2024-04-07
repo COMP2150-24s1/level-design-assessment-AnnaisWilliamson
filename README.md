@@ -41,7 +41,7 @@ THe moving platforms provide access to new areas and create a puzzle for players
 ### 2.3. Keys
 After an initial jumping over acid lakes phase, there is a small challenge to collect the first key that involves jumping with the moving platform to successfully pass the long area of acid. The Platform will pass under the obstacle but the player will be pushed off and die in the acid.
 
-(DocImages/Platform Mechanic.jpeg)
+DocImages/Platform Mechanic.jpeg
 
 ### 2.2. Checkpoints
 
